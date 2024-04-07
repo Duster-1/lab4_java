@@ -182,7 +182,8 @@ class Airport {
     }
 }
 
-public class Main {
+
+public class Main2 {
     public static void main(String[] args) {
         Passenger passenger1 = new Passenger("John Doe", "AB123456");
         Passenger passenger2 = new Passenger("Alice", "CD789012");
